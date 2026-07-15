@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/ff6c21ef-80f9-427a-bd8b-6fb165b08228
+
 # GPU Scout
 
 **Status: Prototype.** Working end-to-end, actively being extended. See
